@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ZeroMeal</string>
+    <string name="beranda">Beranda</string>
+    <string name="stok">Stok</string>
+    <string name="tambah">Tambah</string>
+    <string name="resep">Resep</string>
+    <string name="profil">Profil</string>
+    <string name="aksi_cepat">Aksi Cepat</string>
+    <string name="input_manual">Input Manual</string>
+    <string name="segera_kedaluwarsa">Segera Kedaluwarsa</string>
+    <string name="lihat_semua">Lihat Semua</string>
+    <string name="resep_rekomendasi">Resep Rekomendasi</string>
+    <string name="daftar_belanja">Daftar Belanja</string>
+    <string name="kelola">Kelola</string>
+    <string name="tambah_bahan">Tambah Bahan</string>
+    <string name="nama_bahan">Nama Bahan</string>
+    <string name="tanggal_kedaluwarsa">Tanggal Kedaluwarsa</string>
+    <string name="simpan">Simpan</string>
+    <string name="bahan_bahan">Bahan-Bahan</string>
+    <string name="cara_membuat">Cara Membuat</string>
+    <string name="search">Search</string>
+</resources>
